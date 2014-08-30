@@ -1,0 +1,1 @@
+./bin/spark-class org.apache.spark.deploy.Client launch spark://liuhao-T430u:7077 file:/home/liuhao/workspace/cogroupripplejoin/target/scala-2.10/cogroupripplejoin-project_2.10-1.0.jar src.main.scala.JoinJob
